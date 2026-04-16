@@ -1,0 +1,16 @@
+{
+  "name": "bleach-api",
+  "version": "1.0.0",
+  "description": "API simples com Express",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.22.1"
+  }
+}
