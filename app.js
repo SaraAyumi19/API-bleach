@@ -3,7 +3,8 @@ import express from "express";
 const app = express();
 
 // IMPORTANTE para Render
-const porta = process.env.PORT || 8000;
+const port = process.env.PORT || 8000;
+app.listen(port);
 
 const bleach = [
     {
@@ -75,7 +76,7 @@ app.get("/bleach/nome/:nome", (req, res) => {
     const nome = req.params.nome.toLowerCase();
 
     const perso = bleach.find(p =>
-        p.nome.toLowerCase() === nome
+        p.nome.toLowerCase().includes(nome)
     );
 
     if (!perso) {
