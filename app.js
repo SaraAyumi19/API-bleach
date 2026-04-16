@@ -1,7 +1,10 @@
 import express from "express";
+import cors from "cors";
 
 const app = express();
 const porta = process.env.PORT || 10000;
+
+app.use(cors());
 
 const bleach = [
   {
