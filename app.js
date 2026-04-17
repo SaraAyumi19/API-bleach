@@ -44,7 +44,7 @@ const bleach = [
     cargo: "Nulo",
     zanpakuto: "Nulo",
     status: "Vivo",
-    imagem: "https://www.writeups.org/wp-content/uploads/Yasutora-Chad-Sado-Bleach-Shonen-Jump.jpg"
+    imagem: "https://static.wikia.nocookie.net/bleach/images/4/4d/Ep158SadoProfile.png/revision/latest?cb=20231105184802&path-prefix=en"
   },
   {
     id: 5,
@@ -53,7 +53,7 @@ const bleach = [
     cargo: "Tenente da 6° Divisão",
     zanpakuto: "Zabimaru",
     status: "Vivo",
-    imagem: "https://static.wikia.nocookie.net/p__/images/b/b8/Bleach_TYBW_Renji_Anime_Render.png/revision/latest?cb=20221212185324&path-prefix=protagonist"
+    imagem: "https://i.redd.it/sw8sxwpg5uc91.jpg"
   },
   {
     id: 6,
