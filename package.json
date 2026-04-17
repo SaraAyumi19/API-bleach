@@ -21,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/SaraAyumi19/API-bleach/issues"
   },
-  "homepage": "https://github.com/SaraAyumi19/API-bleach#readme"
+  "homepage": "https://github.com/SaraAyumi19/API-bleach#readme",
+  "devDependencies": {}
 }
