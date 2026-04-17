@@ -54,14 +54,6 @@ const bleach = [
     cargo: "Espada N° 6",
     zanpakuto: "Pantera",
     status: "Vivo"
-  },
-  {
-    id: 6,
-    nome: "Grimmjow Jaegerjaquez",
-    raca: "Arrancar",
-    cargo: "Espada N° 6",
-    zanpakuto: "Pantera",
-    status: "Vivo"
   }
 ];
 
