@@ -17,7 +17,7 @@ const bleach = [
     cargo: "Nulo",
     zanpakuto: "Nulo",
     status: "Vivo",
-    imagem: "https://static.wikia.nocookie.net/all-worlds-alliance/images/f/f9/75cdd01890cec27b3b1e862a73a64a50.png/revision/latest/scale-to-width-down/479?cb=20200504070203"
+    imagem: "https://static.wikia.nocookie.net/bleach/images/c/c9/KonProfileOption2Ep320.png/revision/latest?cb=20141203012651&path-prefix=pt-br"
   },
   {
     id: 2,
