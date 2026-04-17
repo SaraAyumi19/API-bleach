@@ -13,5 +13,13 @@
   "dependencies": {
     "cors": "^2.8.6",
     "express": "^4.22.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaraAyumi19/API-bleach.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SaraAyumi19/API-bleach/issues"
+  },
+  "homepage": "https://github.com/SaraAyumi19/API-bleach#readme"
 }
